@@ -251,6 +251,8 @@
 
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
       {{ content_for_layout }}
+		{% assign variable = 5 | plus: 5 %}
+		{{ variable }}
     </main>
 
     {% sections 'footer-group' %}
