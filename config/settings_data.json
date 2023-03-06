@@ -136,6 +136,12 @@
         "settings": {
           "color_scheme": "background-1"
         }
+      },
+      "random-collection": {
+        "type": "random-collection",
+        "settings": {
+          "show_soldout": true
+        }
       }
     },
     "content_for_index": [
