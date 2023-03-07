@@ -8,17 +8,6 @@
     "theme_support_url": "https:\/\/support.shopify.com\/"
   },
   {
-    "name": "Colours",
-    "settings": [
-      {
-        "type": "color",
-        "id": "link_color",
-        "label": "Link Colour",
-        "default": "#000"
-      }
-    ]
-  },
-  {
     "name": "t:settings_schema.logo.name",
     "settings": [
       {

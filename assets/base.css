@@ -2490,8 +2490,8 @@ product-info .loading-overlay:not(.hidden) ~ *,
 
 .header__icon,
 .header__icon--cart .icon {
-  height: 4.4rem;
-  width: 4.4rem;
+  height: 2rem;
+  width: 2rem;
   padding: 0;
 }
 
